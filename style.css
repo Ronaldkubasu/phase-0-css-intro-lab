@@ -1,7 +1,7 @@
 /* Tag selector to select the 'body' element */
 body {
   /* Your code here! */
-  background-color: lightblue;
+  background-color: #00b3e6;
   
 
 }
@@ -20,7 +20,7 @@ div {
 #main-header {
   /* Your code here! */
   color: red;
-  font-size: 20px;
+  font-size: 22px;
 
 }
 
